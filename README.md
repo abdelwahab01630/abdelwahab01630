@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Abdelwahab, a data scientist. 
+### 👋 Hello world, I'm Abdelwahab, a data scientist. 
 ### I'm doing a master research in data science at Quantum Leap Africa (QLA), Rwanda.
 ### I am interested in discussing anything regarding Data and ML/Deep Learning. I am passionate about:
 - Data
