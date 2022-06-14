@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Abdelwahab. a Data Science student at Quantum Leap Africa (QLA) in Rwanda.
+### I am passionate about:
+- Data
+- Programming
+- Reading
 
 <!--
 **abdelwahab01630/abdelwahab01630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
