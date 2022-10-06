@@ -1,5 +1,3 @@
-
-
 # Hello there 👋 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdelwahab01630.abdelwahab01630)
@@ -11,7 +9,7 @@
 # -*- coding: utf-8 -*-
 
 
-class DataScientis:
+class DataScientist:
 
     def __init__(self):
         self.name = "Mahamat Azibert ABDELWAHAB"
@@ -34,7 +32,7 @@ class DataScientis:
               ")
 
 
-me = SoftwareEngineer()
+me = DataScientist()
 me.say_hi()
 ```
 
