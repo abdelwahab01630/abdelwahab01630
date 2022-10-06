@@ -54,11 +54,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
-# My GitHub Stats Card
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelwahab01630&show_icons=true&theme=solarized-light&align=left)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab01630&langs_count=8&show_icons=true&theme=cobalt&align=right)](https://github.com/abdelwahab01630/github-readme-stats)
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abdelwahab01630/">
