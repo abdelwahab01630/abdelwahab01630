@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My GitHub Stats Card
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelwahab01630&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab01630&langs_count=8&show_icons=true&theme=radical)](https://github.com/abdelwahab01630/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab01630&langs_count=8&show_icons=true&theme=cobalt)](https://github.com/abdelwahab01630/github-readme-stats)
