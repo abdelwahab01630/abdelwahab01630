@@ -3,11 +3,12 @@
 ### I am interested in discussing anything regarding Data and ML/Deep Learning. I am passionate about:
 - Data
 - Natural Language Processing
+- Computer Vision
 - Mathematical Problem Solving
 - Programming
 - Reading
 
-### 
+### 🔭 I’m currently working on Natural Language Processing and Computer Vision 
 
 <!--
 **abdelwahab01630/abdelwahab01630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
