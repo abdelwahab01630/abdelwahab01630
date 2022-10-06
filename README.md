@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelwahab01630&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelwahab01630&repo=CNN-for-Breast-Cancer-IDC-)(https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelwahab01630&repo=CNN-for-Breast-Cancer-IDC-)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab01630)](https://github.com/abdelwahab01630/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelwahab01630&repo=CNN-for-Breast-Cancer-IDC-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdelwahab01630&repo=CNN-for-Breast-Cancer-IDC-)
