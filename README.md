@@ -1,8 +1,5 @@
 # Hello there 👋 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdelwahab01630.abdelwahab01630)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 
 ```python
 #!/usr/bin/python
