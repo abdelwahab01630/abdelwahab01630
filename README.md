@@ -1,6 +1,6 @@
 
 
-# Hello there 👋
+# Hello there 👋 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdelwahab01630.abdelwahab01630)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -41,8 +41,6 @@ me.say_hi()
 ## 📝 Blogs
 
 - Personal website and blog: https://abdelwahab01630.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
 
 ## 🔧 Technologies & Tools
