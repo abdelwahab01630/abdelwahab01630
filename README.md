@@ -19,6 +19,7 @@ class DataScientist:
               I'm doing a master research in data science at Quantum Leap Africa (QLA), Rwanda.
               I am interested in discussing anything regarding Data and ML/Deep Learning. I am passionate about:
               - Data
+              - Data Engineering
               - Natural Language Processing
               - Computer Vision
               - Mathematical Problem Solving
