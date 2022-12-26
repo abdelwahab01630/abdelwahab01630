@@ -14,18 +14,20 @@ class DataScientist:
 
     def say_hi(self):
         print("
-              Hello world, I'm Abdelwahab, a data scientist. 
-              I'm doing a master research in data science at Quantum Leap Africa (QLA), Rwanda.
+              Hello world, I'm Abdelwahab, a data scientist with 1 year of experience. Adept at  
+              developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research in a multitude of 
+              settings. An organized and efficient worker with the ability to work autonomously or in a team.
               I am interested in discussing anything regarding Data and ML/Deep Learning. I am passionate about:
               - Data
               - Data Engineering
               - Natural Language Processing
               - Computer Vision
               - Mathematical Problem Solving
-              - Programming
+              - Physics-informed Neural Networks (PINNs)
+              - Python Programming
               - Reading
 
-              🔭 I’m currently working on Natural Language Processing and Computer Vision 
+              🔭 I’m currently working on Physics-informed Neural Networks.
               ")
 
 
