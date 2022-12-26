@@ -1,5 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mahamat Azibert Abdelwahab</h1>
-<h3 align="center">A passionate data scientist from Chad, with 1 year of experience. Adept at developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research in a multitude of settings. An organized and efficient worker with the ability to work autonomously or in a team.</h3>
+<h1 align="center">Hi 👋, I'm Abdelwahab</h1>
+<h3 align="center">A passionate data scientist from Chad. Adept at developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research in a multitude of settings. An organized and efficient worker with the ability to work autonomously or in a team.</h3>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class DataScientist:
+
+    def __init__(self):
+        self.name = "Mahamat Azibert ABDELWAHAB"
+        self.role = "Data Scientist"
+        self.language_spoken = ["fr_FR", "en_US"]
+
+    def say_hi(self):
+        print("
+              I am interested in discussing anything regarding Data and Machine Learning and Deep Learning. 
+              
+              I am passionate about:
+              - Data
+              - Data Engineering
+              - Natural Language Processing
+              - Computer Vision
+              - Mathematical Problem Solving
+              - Physics-Informed Neural Networks (PINNs)
+              - Python Programming
+              - Reading
+
+              🔭 I’m currently working on Physics-informed Neural Networks.
+              ")
+
+
+me = DataScientist()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: https://abdelwahab01630.github.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab01630&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab01630" /> </p>
 
@@ -35,17 +73,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-# Hello there 👋
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -60,10 +87,6 @@ class DataScientist:
 
     def say_hi(self):
         print("
-              Hello world, I'm Abdelwahab, a data scientist with 1 year of experience. Adept at  
-              developing, understanding, and interpreting complex models of analysis. Able to clearly 
-              present findings and research in a multitude of settings. An organized and efficient worker 
-              with the ability to work autonomously or in a team.
               I am interested in discussing anything regarding Data and Machine Learning and Deep Learning. 
               
               I am passionate about:
