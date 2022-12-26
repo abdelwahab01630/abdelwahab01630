@@ -15,9 +15,12 @@ class DataScientist:
     def say_hi(self):
         print("
               Hello world, I'm Abdelwahab, a data scientist with 1 year of experience. Adept at  
-              developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research 
-              in a multitude of settings. An organized and efficient worker with the ability to work autonomously or in a team.
-              I am interested in discussing anything regarding Data and Machine Learning and Deep Learning. I am passionate about:
+              developing, understanding, and interpreting complex models of analysis. Able to clearly 
+              present findings and research in a multitude of settings. An organized and efficient worker 
+              with the ability to work autonomously or in a team.
+              I am interested in discussing anything regarding Data and Machine Learning and Deep Learning. 
+              
+              I am passionate about:
               - Data
               - Data Engineering
               - Natural Language Processing
