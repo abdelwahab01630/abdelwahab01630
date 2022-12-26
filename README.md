@@ -1,5 +1,4 @@
-# Hello there 👋 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
-
+# Hello there 👋
 
 ```python
 #!/usr/bin/python
