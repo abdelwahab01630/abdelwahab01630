@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahamat Azibert Abdelwahab</h1>
+<h1 align="center">Hi 👋, I'm Abdelwahab</h1>
 <h3 align="center">A passionate data scientist from Chad. Adept at developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research in a multitude of settings. An organized and efficient worker with the ability to work autonomously or in a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab01630&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab01630" /> </p>
