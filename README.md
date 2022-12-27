@@ -1,3 +1,5 @@
+![logo](https://github.com/abdelwahab01630/abdelwahab01630/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Abdelwahab</h1>
 <h3 align="center">A passionate data scientist from Chad. Adept at developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research in a multitude of settings. An organized and efficient worker with the ability to work autonomously or in a team.</h3>
 
