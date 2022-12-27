@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelwahab</h1>
 <h3 align="center">A passionate data scientist from Chad. Adept at developing, understanding, and interpreting complex models of analysis. Able to clearly present findings and research in a multitude of settings. An organized and efficient worker with the ability to work autonomously or in a team.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/91138015/209589842-ae48c9d0-2739-4e51-a8fe-14ae1bf8e0c9.png)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab01630&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab01630" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelwahab01630" alt="abdelwahab01630" /></a> </p>
