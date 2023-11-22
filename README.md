@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelwahab01630" alt="abdelwahab01630" /></a> </p>
 
-- 🔭 I’m currently working on **Physics-Informed Neural Networks (PINNs)**
-
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **mahamat@ishango.ai**
