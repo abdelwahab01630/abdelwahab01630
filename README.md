@@ -1,7 +1,7 @@
 ![logo](https://github.com/abdelwahab01630/abdelwahab01630/blob/main/banner1.png)
 
 <h1 align="center">Hi 👋, I'm Abdelwahab</h1>
-<h3 align="center">A passionate data scientist with a strong background in computer vision and natural language processing (NLP). Skilled in utilizing various machine learning algorithms and deep learning frameworks to tackle challenging problems in these domains. Proficient in implementing image classification, object detection, and text analysis algorithms. team.</h3>
+<h3 align="center">A passionate data scientist with a strong background in computer vision and natural language processing (NLP). Skilled in utilizing various machine learning algorithms and deep learning frameworks to tackle challenging problems in these domains. Proficient in implementing image classification, object detection, and text analysis algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab01630&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab01630" /> </p>
 
