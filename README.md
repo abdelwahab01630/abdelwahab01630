@@ -11,5 +11,4 @@
 <a href="https://fb.com/mahamatazibert.abdelwahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahamatazibert.abdelwahab" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelwahab01630&" alt="abdelwahab01630" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=abdelwahab01630&show_icons=true&locale=en" alt="abdelwahab01630" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abdelwahab01630&show_icons=true&locale=en" alt="abdelwahab01630" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abdelwahab01630&show_icons=true&locale=en" alt="abdelwahab01630" /></p>
