@@ -1,4 +1,4 @@
-<p align="left">Hi there 👋, I'm Mahamat</p>
+<p align="left">Hi there 👋</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab01630&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab01630" /> </p>
 
 <h3 align="left">Connect with me:</h3>
