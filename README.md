@@ -5,6 +5,4 @@
 <p align="left">
 <a href="https://twitter.com/a_wahab_mht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_wahab_mht" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahamat-azibert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamat-azibert" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdelwahabmht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdelwahabmht" height="30" width="40" /></a>
-<a href="https://fb.com/mahamatazibert.abdelwahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahamatazibert.abdelwahab" height="30" width="40" /></a>
 </p>
