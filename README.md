@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahamat</h1>
-<h3 align="center">A passionate Data Science practioner</h3>
+<h3 align="center">Data SCientist | Turning data into deployed solutions. Building RAG applications, interactive dashboards, and scalable APIs.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelwahab01630&label=Profile%20views&color=0e75b6&style=flat" alt="abdelwahab01630" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
