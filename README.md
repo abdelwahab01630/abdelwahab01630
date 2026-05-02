@@ -17,7 +17,7 @@
       <img src="https://streak-stats.demolab.com/?user=Mahamat&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahamat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahamat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
